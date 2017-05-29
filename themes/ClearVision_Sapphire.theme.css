@@ -25,9 +25,9 @@ Changelog: https://git.io/v6r5N
 */
 :root {
 	--main-color: #2780e6;
-	--hover-color: #1e63b3;
+	--hover-color: #88befc;
     --background-blur: 0px;
-    --background-brightness: 100%;
+    --background-brightness: 75%;
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://github.com/Zerthox/ClearVision/raw/master/images/sapphire.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
+    background-image: url(http://www.artsfon.com/large/201602/80847.jpg) !important; /* IMPORTANT: Link must be HTTPS! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
